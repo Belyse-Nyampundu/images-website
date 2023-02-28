@@ -1,0 +1,285 @@
+.second{font-size: 25px;
+    min-height: 570px;
+    background-image: url(/images/img1.jpeg);
+    width: 100%;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.more{
+    text-align: center;
+    font-size: 50px;
+}
+.explore{
+    background-color: white;
+}
+.nav{
+    position: absolute;
+    margin: 20px;
+    width: auto;
+    font-size: 20px;
+    
+}
+#home2{
+    padding: 20px;
+    
+}
+#shop2{
+    padding: 35px;
+    color: #ffe5d6;
+}
+#style2{
+    padding: 30px;
+    color: #ffe5d6;
+}
+#offer{
+    padding: 30px;
+    color: #ffac7d;
+}
+#search{
+    height: 25px;
+    width: 150px;
+    background-color: #ffac7d;
+    border:#ffac7d;
+    border-radius: 10px;
+}
+#shooping{
+    background-color: #ffac7d;
+    height: 35px;
+    width: 200px;
+    border: #ffac7d;
+    
+    border-radius: 10px;
+}
+.center{
+    
+}
+#discover{
+    width: 200px;
+    height: 40px;
+    background-color: #ffac7d;
+    border-color: #ffac7d;
+    border-radius: 10px;
+    color: #002d3d;
+    font-size: 20px;   
+}
+.left{
+    margin-left: 20%;
+}
+
+
+
+
+
+
+
+
+  
+
+.second ul li{
+    display: inline-block;
+}
+.third{
+    display: flex;
+    vertical-align: top;
+}
+.fourth{
+    margin-left: 20%;
+}
+#four{
+    padding: 20px;
+    border:#ffe5d6;
+    background-color: #ffac7d;
+    border-radius: 10px;
+    height: 5px;
+    
+}
+#five{
+padding: 200px;
+}
+#six{
+    padding: 90px;
+
+}
+#heading{
+    margin-left: 20%;
+    color: #002d3d;
+}
+
+
+
+#seven{
+    padding: 20px;
+
+}
+#eight{
+    padding: 20px;
+}
+#nine{
+    padding: 20px;
+}
+.design{
+  display: flex;
+  width: 70%;
+  margin-left: 20%;
+  
+}
+
+#design1{
+    padding: 20px;
+  width: 20%;
+}
+#design2{
+    padding: 20px;
+  width: 20%;
+}
+#design3{
+    padding: 20px;
+   width: 20%;
+}
+.brand{
+    display: flex;
+    margin-left: 20%;
+}
+#brand1{
+    padding: 20px;
+    color: white;
+}
+#brand2{
+    padding: 20px;
+    color: white;
+}
+#brand3{
+    padding: 20px;
+    color: white;
+}
+
+.first{
+    font-size: 30px;
+}
+.mainn{
+    background-color: #002d3d;
+
+}
+#head{
+    color: #ffac7d;
+    margin-left: 20%;   
+}
+.flower{
+    display: flex;
+    background-color: #ffe5d6;
+
+}
+#flower1{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.down{
+    text-align: center;
+    font-size: 20px;
+}
+.footer{
+    display: flex;
+    padding: 30px;
+    background-color: #002d3d;
+    color: white;
+}
+.box1{
+    padding: 30px;
+}
+.box2{
+    padding: 30px;
+}
+.box3{
+    padding: 30px;   
+}
+.box4{
+    padding: 30px;
+}
+.box5{
+    padding: 30px;
+}
+#instagram{
+    width: 20px;
+    color: white;
+}
+#pinterest{
+    width: 20px;
+}
+#facebook{
+    width: 20px;
+}
+#home{
+    color: #ffe5d6;
+}
+#input{
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: white;
+}
+#go{
+    height: 46px;
+    width: 35px;
+    background-color: #ffac7d; 
+    border: #ffac7d; 
+    border-radius: 10px;  
+}
+#search{
+ width: 200px;
+}
+#ideas{
+    color: #002d3d;
+}
+#guides{
+    color: #002d3d;
+}
+#our{
+    color: #002d3d;
+}
+#find{
+    color: #002d3d;
+}
+#need{
+    color: #002d3d;
+}
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
